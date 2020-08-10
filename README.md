@@ -39,6 +39,7 @@ PCゲーム (ジャンル問わず面白いと思ったものを色々やりま�
 面白いと思ったタイトル
 - Call of Duty
 - The Elder Scrolls V: Skyrim
+- Fallout
 - Kenshi
 - Monster Hunter: World
 - Tom Clancy's Rainbow Six Siege
