@@ -1,6 +1,5 @@
 # プロフィール
-職業訓練の後、Web系の企業に勤めたことがあります。  
-現在は自宅サーバーで[５ちゃっと](https://5chat.site/)を動かして遊んでいます。
+[５ちゃっと](https://5chat.site/)
 
 ## リポジトリ
 - [GitLab](https://gitlab.com/S-Del)
