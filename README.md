@@ -6,7 +6,7 @@
 - [GitHub](https://github.com/S-Del)
 
 ## 書いたことがある言語
-HTML5/CSS3, JavaScript, TypeScript, C, Java, Python, PHP, SQL
+HTML5/CSS3, JavaScript, TypeScript, C, Java, Python, SQL
 
 ## 職業訓練
 過去に職業訓練校 (組込みシステム科) にて半年間の訓練を行った  
