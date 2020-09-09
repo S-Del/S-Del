@@ -34,12 +34,19 @@ HTML5/CSS3, JavaScript, TypeScript, C, Java, Python, SQL
      height="200">
 
 ## 趣味
-PCゲーム (ジャンル問わず面白いと思ったものを色々やります)  
-面白いと思ったタイトル
-- Call of Duty
-- The Elder Scrolls V: Skyrim
-- Fallout
-- Kenshi
-- Monster Hunter: World
-- Tom Clancy's Rainbow Six Siege
-- Warframe
+PCゲームが好きで、ジャンル問わず面白いと思ったものを色々やります。  
+### 面白いと思ったタイトル
+- [Apex Legends](https://www.ea.com/ja-jp/games/apex-legends)
+- [Banished](https://store.steampowered.com/app/242920/Banished/)
+- Call of Duty シリーズ (4, MW2, BO, BO2)
+- [The Elder Scrolls V: Skyrim](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/)
+- [Factorio](https://store.steampowered.com/app/427520/Factorio/)
+- Fallout シリーズ (3, 4)
+- [Kenshi](https://store.steampowered.com/app/233860/Kenshi/)
+- [Krunker.io](https://krunker.io/)
+- [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)
+- [Legends of Runeterra](https://playruneterra.com/)
+- [Monster Hunter: World](https://store.steampowered.com/app/582010/Monster_Hunter_World/)
+- [RimWorld](https://store.steampowered.com/app/294100/RimWorld/)
+- [Tom Clancy's Rainbow Six Siege](https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/)
+- [Warframe](https://store.steampowered.com/app/230410/Warframe/)
